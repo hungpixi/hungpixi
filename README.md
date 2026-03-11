@@ -1,72 +1,126 @@
 <div align="center">
 
-# Hey, I'm Hưng 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Phạm%20Phú%20Nguyễn%20Hưng&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20Builder%20·%20Algo%20Trader%20·%20Startup%20Founder&descAlignY=58&descSize=18" width="100%" />
 
-**Founder @ [Comarai](https://comarai.com) · AI Automation Agent Builder · Algo Trader**
-
-I build AI Agents that automate real business workflows — from lead generation to market research to algorithmic trading. My philosophy: **design the system once, let AI agents run it 24/7.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hungpixi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hungpixi/)
-[![Website](https://img.shields.io/badge/🌐_Comarai-comarai.com-FF6B35?style=flat-square)](https://comarai.com)
-[![Facebook](https://img.shields.io/badge/Facebook-hung.ppn.1009-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/hung.ppn.1009/)
+[![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/0834422439)
+[![Comarai](https://img.shields.io/badge/Comarai.com-6C63FF?style=for-the-badge&logo=globe&logoColor=white)](https://comarai.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hungphamphunguyen@gmail.com)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/hungpixi/)
 
 </div>
 
 ---
 
-## 🧠 What I Do
+## 👤 Tôi là ai?
 
-- 🤖 **AI Agent Systems** — Multi-agent pipelines that crawl, classify, and take action autonomously
-- 📊 **Business Automation** — AI-powered research, lead gen, and outreach for SMBs
-- 📈 **Algorithmic Trading** — MQL5 Expert Advisors for Prop Firms (FTMO, The5ers)
-- ⚙️ **Workflow Automation** — n8n / Zapier flows + browser automation at scale
+**Founder @ [Comarai](https://comarai.com)** — AI Automation Agency tại Việt Nam.
 
-## 🔥 Featured Projects
+Tôi xây dựng hệ thống AI tự động chạy 24/7 cho doanh nghiệp: từ tìm kiếm khách hàng, research thị trường, đến giao dịch tài chính tự động. Triết lý: **thiết kế hệ thống một lần, để AI vận hành mãi mãi.**
 
-### [`social-lead-gen`](https://github.com/hungpixi/social-lead-gen) — AI Lead Generation Pipeline
-> **3 AI Agents working together**: Crawl Facebook Groups (Playwright) → Classify buyer intent (DeepSeek R1) → Auto-generate outreach messages
->
-> 💡 *Thinking*: Most scraping tools dump raw data. This pipeline adds an **AI classification layer** to filter real buying intent, then drafts personalized outreach — turning noise into qualified leads.
+```
+📍 Đà Nẵng → TP.HCM  |  🎓 UIT (CNTT) + BTEC HND Business Level 5
+💼 Freelancer · Trader nghiệp dư · Đang build startup Comarai
+```
 
-### [`business-deep-research`](https://github.com/hungpixi/business-deep-research) — AI Business Plan Generator  
-> **Gemini API + Google Search Grounding + 12 MBA frameworks + Devil's Advocate critical review**
->
-> 💡 *Thinking*: Existing AI "business plan generators" are just glorified templates. This agent does **real-time web research**, applies structured frameworks (Porter's 5, SWOT, BMC...), and then a Devil's Advocate agent **tears the plan apart** to find weaknesses before you do.
+---
 
-### [`trade-quy`](https://github.com/hungpixi/trade-quy) — Prop Firm Trading Bot (MQL5)
-> **IchiDCA Strategy**: Ichimoku Cloud Break + DCA position management, tuned for Prop Firm risk rules
->
-> 💡 *Thinking*: Prop Firm trading has strict drawdown limits that most retail EAs ignore. This bot is built **constraint-first** — max DD, lot scaling, and session management are hardcoded rules, not afterthoughts.
+## 🚀 Dự Án Nổi Bật
 
-### [`ai-station-setup`](https://github.com/hungpixi/ai-station-setup) — AI Coding Station
-> Autonomous IDE automation for 24/7 operation — the infrastructure that powers everything else.
+| Dự án | Mô tả | Stack |
+|-------|-------|-------|
+| [**xauusd-ichimoku-rl-bot**](https://github.com/hungpixi/xauusd-ichimoku-rl-bot) | RL Trading Bot XAUUSD — +7.12%/tháng backtest | Python · PPO · MQL5 |
+| [**trade-quy-v2**](https://github.com/hungpixi/trade-quy-v2) | EA Prop Firm (FTMO/The5ers) — CCBSN + DCA | MQL5 · Ichimoku |
+| [**social-lead-gen**](https://github.com/hungpixi/social-lead-gen) | AI Pipeline tìm lead từ LinkedIn/Twitter | n8n · Browser Auto |
+| [**business-deep-research**](https://github.com/hungpixi/business-deep-research) | AI tự research + viết Business Plan | Gemini · Python |
+| [**hcc-reader**](https://github.com/hungpixi/hcc-reader) | Đọc file lịch sử MT5 `.hcc`/`.hc` | Python · Binary |
+
+---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MQL5](https://img.shields.io/badge/MQL5-4A76A8?style=for-the-badge&logo=metatrader5&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek_R1-FF6600?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-FF6B35?style=flat-square&logo=openai&logoColor=white)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-0081CF?style=flat-square&logo=openai&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
+
+**Automation & Trading**
+
+![MQL5](https://img.shields.io/badge/MQL5-2962FF?style=flat-square&logo=metatrader&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![MetaTrader](https://img.shields.io/badge/MetaTrader5-00897B?style=flat-square&logo=chart&logoColor=white)
+
+**Tools**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)
 
 </div>
 
-## 💭 My Approach
+---
 
-> Code is commodity — **AI writes code for me.** What matters is the **thinking**: identifying the right problem, designing the right system, and knowing when to break from existing solutions.
->
-> Every project here shows my thought process: *what exists → what's missing → what I built differently → where it's going next.*
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hungpixi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungpixi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=hungpixi&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 💡 Cách Tôi Nghĩ Về AI & Startup
+
+```
+Người ngu dùng AI để làm nhanh hơn.
+Người thông minh dùng AI để làm những việc không thể làm một mình.
+```
+
+**Tôi đang build hướng thứ 2:**
+- 🤖 `Em Trade` — Bot tự học chiến lược trading, tự cải tiến qua backtesting
+- 📢 `Em Marketing` — Tự động tìm khách hàng, viết content, gửi outreach
+- 💼 `Em Sale` — Pipeline từ lead → pitch → followup không cần nhân sự
+- 📝 `Em Content` — Research thị trường, viết báo cáo, tạo tài liệu
+
+---
+
+## 🌏 Kết Nối
+
+Tôi đang tìm kiếm cơ hội collaborate với:
+
+- 🚀 **Startup AI/Fintech/Blockchain** tại Việt Nam đang cần automation
+- 📈 **Traders/Quant Funds** muốn tự động hóa chiến lược Ichimoku/RL
+- 🏗️ **Builder/Founder** đang build AI-first product
+
+> *Nếu bạn đang build điều gì đó thực sự — mình muốn nghe.*
+
+<div align="center">
+
+| 📞 Liên hệ nhanh | |
+|---|---|
+| **Zalo** | [0834 422 439](https://zalo.me/0834422439) |
+| **Email** | [hungphamphunguyen@gmail.com](mailto:hungphamphunguyen@gmail.com) |
+| **Website** | [comarai.com](https://comarai.com) |
+
+</div>
 
 ---
 
 <div align="center">
 
-🌐 **[comarai.com](https://comarai.com)** — AI Automation Solutions for Business
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
 
-*Building the future where AI agents do the heavy lifting, so humans can focus on strategy.*
+*Mọi dự án trên được phát triển với sự hỗ trợ của AI (Antigravity × Gemini) — nhưng tư duy và quyết định là của người.*
 
 </div>
