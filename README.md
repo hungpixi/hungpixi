@@ -47,6 +47,7 @@ Backtested, production-grade systems for Forex (XAUUSD), Crypto, and Prop Firm c
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**ex5-backtest**](https://github.com/hungpixi/ex5-backtest) | 🆕 **MT5 Auto-Backtest Pipeline** — Headless CLI: Compile→Test→Rank 70 EAs. MT5×AI Agent bridge | PowerShell, MQL5, CLI |
 | [**xauusd-smc-signal-engine**](https://github.com/hungpixi/xauusd-smc-signal-engine) | AI Trading Engine — XGBoost + Smart Money Concepts. EV+0.183R, 78% monthly win rate | Python, XGBoost, Walk-Forward |
 | [**btc-smc-rl-bot**](https://github.com/hungpixi/btc-smc-rl-bot) | Reinforcement Learning (PPO) learns BTC entry points, auto-exports MT5 EA | Python, Stable-Baselines3 |
 | [**xauusd-ichimoku-rl-bot**](https://github.com/hungpixi/xauusd-ichimoku-rl-bot) | RL (PPO) multi-timeframe Ichimoku for XAUUSD. +7.12% test, PF 3.76, WR 86.7% | Python, Gymnasium |
