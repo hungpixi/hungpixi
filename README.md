@@ -15,13 +15,13 @@
 
 **Aspiring Quantitative Researcher** actively building toward a career in **systematic trading & alpha research** at firms like **WorldQuant**.
 
-Currently an IT undergraduate at **UIT (VNUHCM, expected 2028)**, I chose to pursue a formal CS degree to deepen my foundations in algorithms, data structures, and mathematical computing — complementing 2+ years of hands-on experience building **AI-driven trading systems** and **quantitative strategies**.
+Currently an IT undergraduate at **UIT (VNUHCM, enrolled Mar 2026, expected 2028)**, I committed to a formal CS degree to fully embrace the AI revolution — combining it with 2+ years of hands-on experience building **AI-driven trading systems** and **quantitative strategies**.
 
 > *"I build trading systems that think. My goal is to generate alpha through rigorous research, not gut feelings."*
 
 ```text
 📍 Based in: Ho Chi Minh City, Vietnam
-🎓 Education: UIT – VNUHCM (B.Sc. Information Technology, 2024–2028)
+🎓 Education: UIT – VNUHCM (B.Sc. IT, Distance Learning, 2026–2028)
 💼 Focus: Quantitative Research · Algorithmic Trading · AI Agent Systems
 🏆 Goal: WorldQuant Brain Consultant → Full-time Quant Researcher
 ```
@@ -131,10 +131,10 @@ Building "zero-human" autonomous systems that research, decide, and execute:
 
 ## 🎓 Education
 
-**University of Information Technology – VNUHCM** (2024–2028)
-*Bachelor of Science in Information Technology*
+**University of Information Technology – VNUHCM** (2026–2028)
+*B.Sc. Information Technology (Distance Learning)*
 
-> Pursuing IT to build deep foundations in algorithms, mathematical computing, and data structures — essential for quantitative research and systematic trading.
+> Enrolled in March 2026 — fully committed to technology & engineering to ride the AI wave, build deep technical foundations, and create lasting impact for my family in this new era.
 
 **BTEC HND in Business** (Level 5)
 *Foundation in business analysis and strategic thinking*
