@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Phạm%20Phú%20Nguyễn%20Hưng&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20Agentic%20Architect%20·%20Quant%20Trader%20·%20Founder%20@%20Comarai&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Phạm%20Phú%20Nguyễn%20Hưng&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Quantitative%20Researcher%20·%20AI%20Systems%20Architect%20·%20UIT%20Student&descAlignY=58&descSize=18" width="100%" />
 
-[![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/0834422439)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hungpixi)
 [![Comarai](https://img.shields.io/badge/Comarai.com-6C63FF?style=for-the-badge&logo=globe&logoColor=white)](https://comarai.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hungphamphunguyen@gmail.com)
 [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/hungpixi/)
@@ -11,68 +11,112 @@
 
 ---
 
-## 👤 Về Tôi
+## 🎯 Career Objective
 
-**Founder @ [Comarai](https://comarai.com)** — Tiên phong xây dựng khái niệm **"Zero-human company"** tại Việt Nam nhờ sức mạnh của AI Agents.
+**Aspiring Quantitative Researcher** actively building toward a career in **systematic trading & alpha research** at firms like **WorldQuant**.
 
-Tôi thiết kế, xây dựng và vận hành các hệ thống tự trị đa nền tảng: từ **Hệ sinh thái AI Agent** có khả năng tự nhận thức, tự hành động, đến các **Hệ thống Giao dịch Định lượng (Algorithmic Trading)** tối ưu lợi nhuận liên tục trên thị trường tài chính. 
+Currently an IT undergraduate at **UIT (VNUHCM, expected 2028)**, I chose to pursue a formal CS degree to deepen my foundations in algorithms, data structures, and mathematical computing — complementing 2+ years of hands-on experience building **AI-driven trading systems** and **quantitative strategies**.
 
-> *"Thiết kế kiến trúc chuẩn xác một lần, để AI sinh lời mãi mãi."*
+> *"I build trading systems that think. My goal is to generate alpha through rigorous research, not gut feelings."*
 
 ```text
-📍 Cơ sở: Đà Nẵng → TP.HCM 
-🎓 Học vấn: UIT (CNTT) + BTEC HND Business Level 5
-💼 Focus hiện tại: AI Agentic Workflows & Quantitative Finance Research
+📍 Based in: Ho Chi Minh City, Vietnam
+🎓 Education: UIT – VNUHCM (B.Sc. Information Technology, 2024–2028)
+💼 Focus: Quantitative Research · Algorithmic Trading · AI Agent Systems
+🏆 Goal: WorldQuant Brain Consultant → Full-time Quant Researcher
 ```
 
 ---
 
-## 🚀 Các Trục Công Nghệ Cốt Lõi (Last 4 Months)
+## 🗺️ Roadmap 2026–2027
 
-Tôi chia hệ sinh thái của mình thành 2 nhánh chính, được hệ thống hóa để phục vụ thực chiến và sinh lợi nhuận:
-
-### 📈 1. Tài Chính Định Lượng & Algorithmic Trading
-Bộ công cụ, model và bot được backtest nghiêm ngặt cho quỹ cấp vốn (Prop Firm) & thị trường Crypto:
-*   [**xauusd-smc-signal-engine**](https://github.com/hungpixi/xauusd-smc-signal-engine) — AI Trading Engine kết hợp Machine Learning (XGBoost) và Smart Money Concepts (EV+0.183R, 78% win rate theo tháng).
-*   [**btc-smc-rl-bot**](https://github.com/hungpixi/btc-smc-rl-bot) — Hệ thống Reinforcement Learning (PPO) tự học điểm vào lệnh, xuất MT5 EA tự động.
-*   [**comarai-arb-bot**](https://github.com/hungpixi/comarai-arb-bot) — Bot Arbitrage săn chênh lệch giá Stablecoin on-chain Solana với dynamic threshold.
-*   [**trade-quy-v2**](https://github.com/hungpixi/trade-quy-v2) — MQL5 Expert Advisor áp dụng Ichimoku tĩnh/động chuyên giải quyết bài toán thi quỹ FTMO/The5ers.
-
-### 🤖 2. Khung Năng Lực AI Agents & Automation
-Kiến trúc vận hành doanh nghiệp không người:
-*   [**BizClaw Framework**](https://github.com/hungpixi/bizclaw) — Nền tảng AI Agent kiến trúc trait-driven linh hoạt, chạy đa môi trường (Từ Raspberry Pi đến Cloud).
-*   [**ClawWork**](https://github.com/hungpixi/ClawWork) — Workplace ảo nơi AI Agent tự cày task độc lập ($15K revenue benchmarked in 11 hours).
-*   [**business-deep-research**](https://github.com/hungpixi/business-deep-research) — Trình nghiên cứu kinh doanh + tranh biện Devil's Advocate kết nối Gemini & Google Grounding.
-*   [**social-lead-gen**](https://github.com/hungpixi/social-lead-gen) — Flow tự động: Crawl Data (Playwright) ➔ Phân loại Intent (DeepSeek R1) ➔ Tự động Outreach qua BizClaw.
+| Timeline | Milestone | Status |
+|----------|-----------|--------|
+| **Q2 2026** | Complete WorldQuant Brain IQC · Submit 10+ alphas · Statistics & Probability foundations | 🔄 In Progress |
+| **Q3 2026** | Build end-to-end quant research project · Linear Algebra + Time Series · Reach Bronze+ on WQ Brain | ⏳ Planned |
+| **Q4 2026** | Publish alpha research blog · Factor models & Portfolio optimization · Apply WQ Brain Research Consultant | ⏳ Planned |
+| **Q1 2027** | Stochastic Calculus foundations · Competitive programming practice · Production backtesting framework | ⏳ Planned |
+| **Q2–Q3 2027** | Internship applications (WorldQuant, Jump, Two Sigma) · Reach Silver+ on WQ Brain | ⏳ Planned |
+| **Q4 2027** | Graduation thesis: Quantitative research topic · Full-time application cycle | ⏳ Planned |
 
 ---
 
-## 🛠️ Stack Công Nghệ Lõi
+## 📈 Quantitative Finance & Algorithmic Trading
+
+Backtested, production-grade systems for Forex (XAUUSD), Crypto, and Prop Firm challenges:
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**xauusd-smc-signal-engine**](https://github.com/hungpixi/xauusd-smc-signal-engine) | AI Trading Engine — XGBoost + Smart Money Concepts. EV+0.183R, 78% monthly win rate | Python, XGBoost, Walk-Forward |
+| [**btc-smc-rl-bot**](https://github.com/hungpixi/btc-smc-rl-bot) | Reinforcement Learning (PPO) learns BTC entry points, auto-exports MT5 EA | Python, Stable-Baselines3 |
+| [**xauusd-ichimoku-rl-bot**](https://github.com/hungpixi/xauusd-ichimoku-rl-bot) | RL (PPO) multi-timeframe Ichimoku for XAUUSD. +7.12% test, PF 3.76, WR 86.7% | Python, Gymnasium |
+| [**comarai-arb-bot**](https://github.com/hungpixi/comarai-arb-bot) | On-chain Stablecoin Arbitrage on Solana — dynamic threshold, cooldown protection | TypeScript, Solana |
+| [**comarai-algo-promax**](https://github.com/hungpixi/comarai-algo-promax) | SMC + Trend MAs + Proxy ML Triggers — Pine Script + Python backtesting pipeline | Pine Script, Python |
+| [**mql5-multisignal-dca-ccbsn**](https://github.com/hungpixi/mql5-multisignal-dca-ccbsn) | 9 Signal Modes × DCA × Anti-Detect — MT5 EA with Python ML Optimizer | MQL5, Python |
+| [**ict-system-ea**](https://github.com/hungpixi/ict-system-ea) | ICT System EA v2.0 for The5%ers Prop Firm | MQL5 |
+| [**trade-quy-v2**](https://github.com/hungpixi/trade-quy-v2) | Ichimoku DCA CCBSN — designed for FTMO/The5ers evaluations | MQL5 |
+| [**hcc-reader**](https://github.com/hungpixi/hcc-reader) | Reverse-engineered MT5 .hcc/.hc binary format parser | Python |
+| [**lorentzian_mq5**](https://github.com/hungpixi/lorentzian_mq5) | Lorentzian Classification ported to MQL5 | MQL5 |
+
+<details>
+<summary>📊 More Trading Tools & Indicators (click to expand)</summary>
+
+- [**pinescript-ict**](https://github.com/hungpixi/pinescript-ict) — ICT SSL Premium & Discount PineScript v6 indicator
+- [**Pine-Script-Code**](https://github.com/hungpixi/Pine-Script-Code) — Strategy & indicator code vault
+- [**indicator-tradingview**](https://github.com/hungpixi/indicator-tradingview) — TradingView indicators collection
+- [**moondev-agent**](https://github.com/hungpixi/moondev-agent) — Trading AI Agents: Ichimoku + MQL5 Backtest Pipeline
+- [**mql5-algo-trading-portfolio**](https://github.com/hungpixi/mql5-algo-trading-portfolio) — Full MQL5 EA portfolio
+- [**MQL5-WORKSPACE**](https://github.com/hungpixi/MQL5-WORKSPACE) — MQL5 development workspace
+- [**ICT_AI_TradingPanel**](https://github.com/hungpixi/ICT_AI_TradingPanel) — ICT manual trading panel with AI
+- [**telegram-copy-signal**](https://github.com/hungpixi/telegram-copy-signal) — Signal copy dashboard
+- [**telegram-channel-analyzer**](https://github.com/hungpixi/telegram-channel-analyzer) — NLP keyword analysis + engagement stats
+- [**ML-for-Investment**](https://github.com/hungpixi/ML-for-Investment) — Machine Learning for investment research
+- [**quant-trading**](https://github.com/hungpixi/quant-trading) — Quantitative trading research
+- [**hung-quant-handbook-2026**](https://github.com/hungpixi/hung-quant-handbook-2026) — Personal quant study notes
+
+</details>
+
+---
+
+## 🤖 AI Agent Systems & Automation
+
+Building "zero-human" autonomous systems that research, decide, and execute:
+
+| Project | Description |
+|---------|-------------|
+| [**BizClaw**](https://github.com/hungpixi/bizclaw) | Trait-driven AI Agent framework — runs from Raspberry Pi to Cloud |
+| [**ClawWork**](https://github.com/hungpixi/ClawWork) | Virtual AI workplace: agents cày task independently ($15K benchmarked in 11hrs) |
+| [**business-deep-research**](https://github.com/hungpixi/business-deep-research) | AI business research + Devil's Advocate debate (Gemini + Google Grounding) |
+| [**social-lead-gen**](https://github.com/hungpixi/social-lead-gen) | Crawl (Playwright) → Classify (DeepSeek R1) → Auto-outreach (BizClaw) |
+
+---
+
+## 🛠️ Core Tech Stack
 
 <div align="center">
 
-**Agentic AI & LLMs**<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Gemini](https://img.shields.io/badge/Gemini%20Flash-4285F4?style=flat-square&logo=google&logoColor=white) 
-![DeepSeek](https://img.shields.io/badge/DeepSeek%20R1-0055FF?style=flat-square&logo=deepseek&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+**Quantitative Research & Trading**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MQL5](https://img.shields.io/badge/MQL5-2962FF?style=flat-square&logo=metatrader&logoColor=white)
+![Pine Script](https://img.shields.io/badge/Pine%20Script-131722?style=flat-square&logo=tradingview&logoColor=white)
+![MetaTrader 5](https://img.shields.io/badge/MT5-00897B?style=flat-square&logo=metatrader&logoColor=white)
 
 **Data Science & Machine Learning**<br>
 ![XGBoost](https://img.shields.io/badge/XGBoost-1D9D58?style=flat-square&logo=xgboost&logoColor=white)
 ![Stable-Baselines3](https://img.shields.io/badge/Reinforcement%20Learning-FF6B35?style=flat-square&logo=openai&logoColor=white)
-![Gymnasium](https://img.shields.io/badge/Gymnasium-0081CF?style=flat-square&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Quantitative Trading & Web3**<br>
-![MQL5](https://img.shields.io/badge/MQL5-2962FF?style=flat-square&logo=metatrader&logoColor=white)
-![MetaTrader 5](https://img.shields.io/badge/MT5-00897B?style=flat-square&logo=metatrader&logoColor=white)
-![Pine Script](https://img.shields.io/badge/Pine%20Script-131722?style=flat-square&logo=tradingview&logoColor=white)
-![Solana Crypto](https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=white)
+**AI & Automation**<br>
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek%20R1-0055FF?style=flat-square&logo=deepseek&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Github Metrics
+## 📊 GitHub Metrics
 
 <div align="center">
 
@@ -85,19 +129,28 @@ Kiến trúc vận hành doanh nghiệp không người:
 
 ---
 
-## 🌏 Bắt Tay Cùng Làm Kèo Chuyên Sâu
+## 🎓 Education
 
-Tôi luôn mở cửa đón nhận các cơ hội collaborate chiến lược với:
-- 🏦 **Quant Funds / Prop Traders**: Muốn áp dụng Reinforcement Learning & Machine Learning để tối ưu Alpha/Risk.
-- 🚀 **AI Startups / Founders**: Tìm kiếm CTO, CGO hoặc đối tác xây dựng Automations Infrastructure theo chuẩn Zero-human.
-- 👨‍💻 **Builders**: Nếu bạn đang build một thứ gì đó điên rồ, *tôi muốn nghe.*
+**University of Information Technology – VNUHCM** (2024–2028)
+*Bachelor of Science in Information Technology*
+
+> Pursuing IT to build deep foundations in algorithms, mathematical computing, and data structures — essential for quantitative research and systematic trading.
+
+**BTEC HND in Business** (Level 5)
+*Foundation in business analysis and strategic thinking*
+
+---
+
+## 🌏 Let's Connect
+
+I'm actively seeking opportunities in **quantitative research, alpha generation, and systematic trading**.
 
 <div align="center">
 
-| 📞 Liên hệ nhanh | |
+| 📞 Contact | |
 |---|---|
-| **Zalo** | [0834 422 439](https://zalo.me/0834422439) |
 | **Email** | [hungphamphunguyen@gmail.com](mailto:hungphamphunguyen@gmail.com) |
+| **GitHub** | [github.com/hungpixi](https://github.com/hungpixi) |
 | **Website** | [comarai.com](https://comarai.com) |
 
 </div>
@@ -107,5 +160,5 @@ Tôi luôn mở cửa đón nhận các cơ hội collaborate chiến lược v�
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
 
-*Được kiến tạo từ nền tảng [Antigravity AI Automation] × Trí óc con người.*
+*Built with [Antigravity AI Automation] × Human Intelligence.*
 </div>
