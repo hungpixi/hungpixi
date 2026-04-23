@@ -47,10 +47,8 @@ Building "zero-human" autonomous systems that research, decide, and execute:
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**social-lead-gen**](https://github.com/hungpixi/social-lead-gen) | Crawl (Playwright) → Classify (DeepSeek R1) → Auto-outreach (BizClaw) pipeline. | Python, DeepSeek |
+| [**social-lead-gen**](https://github.com/hungpixi/social-lead-gen) | Crawl (Playwright) → Classify (DeepSeek R1) → Auto-outreach pipeline. | Python, DeepSeek |
 | [**telegram-channel-analyzer**](https://github.com/hungpixi/telegram-channel-analyzer) | Scrape & analyze Telegram channels - NLP keyword analysis + engagement tracking. | Python, NLP |
-| [**BizClaw**](https://github.com/hungpixi/bizclaw) | Trait-driven AI Agent framework — runs from Raspberry Pi to Cloud. | Python, Docker |
-| [**ClawWork**](https://github.com/hungpixi/ClawWork) | Virtual AI workplace: agents grinding tasks independently. | Orchestration |
 | [**business-deep-research**](https://github.com/hungpixi/business-deep-research) | AI business research + Devil's Advocate debate (Gemini + Google Grounding). | Prompt Chaining |
 
 ---
