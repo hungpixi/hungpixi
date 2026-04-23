@@ -36,7 +36,7 @@ Actively pushing the boundaries of what local AI running on Edge devices and web
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 📌 [**vietfi-advisor**](https://github.com/hungpixi/vietfi-advisor) | **AI Financial Assistant for Gen Z Vietnam (WDA 2026)** — Full-stack system integrating LLM conversational engines with personal finance aggregation. | TS/JS, Next.js, AI Agents |
+| [**vietfi-advisor**](https://github.com/hungpixi/vietfi-advisor) | **AI Financial Assistant for Gen Z Vietnam (WDA 2026)** — Full-stack system integrating LLM conversational engines with personal finance aggregation. | TS/JS, Next.js, AI Agents |
 | [**antigravity-self-learning**](https://github.com/hungpixi/antigravity-self-learning) | 7 Self-Learning Models for AI Coding (Code Smell, ADR, Prompts) extracted from 14 real-world projects. | Local AI Pipelines |
 
 ---
@@ -45,13 +45,13 @@ Actively pushing the boundaries of what local AI running on Edge devices and web
 
 Building "zero-human" autonomous systems that research, decide, and execute:
 
-| Project | Description |
-|---------|-------------|
-| [**social-lead-gen**](https://github.com/hungpixi/social-lead-gen) | Crawl (Playwright) → Classify (DeepSeek R1) → Auto-outreach (BizClaw) pipeline. |
-| [**telegram-channel-analyzer**](https://github.com/hungpixi/telegram-channel-analyzer) | Scrape & analyze Telegram channels - NLP keyword analysis + engagement tracking. |
-| [**BizClaw**](https://github.com/hungpixi/bizclaw) | Trait-driven AI Agent framework — runs from Raspberry Pi to Cloud. |
-| [**ClawWork**](https://github.com/hungpixi/ClawWork) | Virtual AI workplace: agents grinding tasks independently. |
-| [**business-deep-research**](https://github.com/hungpixi/business-deep-research) | AI business research + Devil's Advocate debate (Gemini + Google Grounding). |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**social-lead-gen**](https://github.com/hungpixi/social-lead-gen) | Crawl (Playwright) → Classify (DeepSeek R1) → Auto-outreach (BizClaw) pipeline. | Python, DeepSeek |
+| [**telegram-channel-analyzer**](https://github.com/hungpixi/telegram-channel-analyzer) | Scrape & analyze Telegram channels - NLP keyword analysis + engagement tracking. | Python, NLP |
+| [**BizClaw**](https://github.com/hungpixi/bizclaw) | Trait-driven AI Agent framework — runs from Raspberry Pi to Cloud. | Python, Docker |
+| [**ClawWork**](https://github.com/hungpixi/ClawWork) | Virtual AI workplace: agents grinding tasks independently. | Orchestration |
+| [**business-deep-research**](https://github.com/hungpixi/business-deep-research) | AI business research + Devil's Advocate debate (Gemini + Google Grounding). | Prompt Chaining |
 
 ---
 
