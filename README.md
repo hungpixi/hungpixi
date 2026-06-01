@@ -125,10 +125,8 @@ I actively configure advanced AI agentic systems and developer tools to streamli
 
 * **University of Information Technology – VNUHCM** (2026–2028)
   * *B.Sc. in Information Technology (Distance Learning)*
-  * Strategic remote study program to balance rigorous CS fundamentals with full-time application building, hackathons, and real-world system deployments.
 * **BTEC HND in Business** (Graduated 2024)
   * *Foundation in Business Analysis and Strategic Thinking*
-  * Equips me with a commercial mindset to ensure code outputs align with product viability and user demand.
 
 ---
 
