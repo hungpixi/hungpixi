@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Phạm%20Phú%20Nguyễn%20Hưng&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Product-Minded%20Engineer%20·%20AI%20Solutions%20Architect%20·%20UIT%20Student&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Phạm%20Phú%20Nguyễn%20Hưng&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Product-Minded%20Developer%20·%20AI%20Automation%20Builder%20·%20UIT%20Student&descAlignY=58&descSize=18" width="100%" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hungpixi)
 [![Comarai](https://img.shields.io/badge/Comarai.com-6C63FF?style=for-the-badge&logo=globe&logoColor=white)](https://comarai.com)
@@ -13,19 +13,19 @@
 
 ## 🎯 Career Objective
 
-**Aspiring AI Solution Architect & Data Automation Builder.** 
+**Aspiring Software Engineer & Data Automation Developer.** 
 
-Having transitioned from a solid foundation in Business (BTEC FPT, 2024) to aggressive Data Trading and Quantitative execution, I am now fully committed to building leverage through **AI-driven Automation Systems**. My long-term goal is to evolve into a full-stack AI Solution Architect—solving complex workflow problems and generating hyper-efficient revenue streams through programmatic automation.
+Having transitioned from a foundation in Business (BTEC FPT, 2024), I shifted my focus to Software Engineering, Data Analysis, and Quantitative Trading. I am passionate about building **AI-powered Automation Systems** and learning to design robust software architectures to solve real-world efficiency challenges.
 
-Currently extending my formal CS fundamentals at **UIT (VNUHCM, enrolled Mar 2026, expected 2028)** via a distance-learning program. This strategic choice allows me to operate full-time in the startup/hackathon ecosystem while actively riding the current AI wave.
+Currently extending my formal CS fundamentals at **UIT (VNUHCM, enrolled Mar 2026, expected 2028)** via a distance-learning program. This strategic choice allows me to balance academic growth with active development in the startup and hackathon ecosystems.
 
-> *"Outcome over Output. I engineer leverage for high-performance teams to scale efficiency without scaling headcount."*
+> *"Outcome over Output. I engineer automated solutions to scale workflows and optimize development processes."*
 
 ```text
 📍 Based in: Ho Chi Minh City, Vietnam
 🎓 Education: UIT – VNUHCM (B.Sc. IT, Distance Learning, 2026–2028)
-💼 Focus: AI Agent Architectures · Automation & Scraping · Quantitative Trading
-🏆 Goal: AI Solution Architect → Building High-Leverage Autonomous Systems
+💼 Focus: Software Engineering · Automation & Scraping · Quantitative Trading Tools
+🏆 Goal: Software Engineer → Building Robust & High-Leverage Automation Systems
 ```
 
 ---
@@ -41,30 +41,30 @@ Actively pushing the boundaries of what local AI running on Edge devices and web
 
 ---
 
-## 🤖 AI Agent Systems & Automation
+## 🤖 AI Integrations & Automation
 
-Building "zero-human" autonomous systems that research, decide, and execute:
+Building automated workflows and pipelines to optimize data processing and task execution:
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**social-lead-gen**](https://github.com/hungpixi/social-lead-gen) | Crawl (Playwright) → Classify (DeepSeek R1) → Auto-outreach pipeline. | Python, DeepSeek |
+| [**social-lead-gen**](https://github.com/hungpixi/social-lead-gen) | Automated flow: Scrape (Playwright) → Filter (DeepSeek R1) → Outreach queue. | Python, DeepSeek |
 | [**telegram-channel-analyzer**](https://github.com/hungpixi/telegram-channel-analyzer) | Scrape & analyze Telegram channels - NLP keyword analysis + engagement tracking. | Python, NLP |
-| [**business-deep-research**](https://github.com/hungpixi/business-deep-research) | AI business research + Devil's Advocate debate (Gemini + Google Grounding). | Prompt Chaining |
+| [**business-deep-research**](https://github.com/hungpixi/business-deep-research) | Custom workflow for deep topic research using multi-stage LLM chains (Gemini + Grounding). | Prompt Chaining |
 
 ---
 
 ## 📈 Quantitative Finance & Algorithmic Trading
 
-Backtested, production-grade systems for Forex (XAUUSD), Crypto, and Prop Firm challenges:
+Experimental frameworks, indicators, and backtesting pipelines built for quantitative trading:
 
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**ex5-backtest**](https://github.com/hungpixi/ex5-backtest) | 🆕 **MT5 Auto-Backtest Pipeline** — Headless CLI: Compile→Test→Rank 70 EAs. | PowerShell, MQL5, CLI |
-| [**xauusd-smc-signal-engine**](https://github.com/hungpixi/xauusd-smc-signal-engine) | AI Trading Engine — XGBoost + Smart Money Concepts. EV+0.183R, 78% monthly win rate | Python, XGBoost |
-| [**btc-smc-rl-bot**](https://github.com/hungpixi/btc-smc-rl-bot) | Reinforcement Learning (PPO) learns BTC entry points, auto-exports MT5 EA | Python, Gymnasium |
-| [**xauusd-ichimoku-rl-bot**](https://github.com/hungpixi/xauusd-ichimoku-rl-bot) | RL (PPO) multi-timeframe Ichimoku for XAUUSD. +7.12% test, PF 3.76, WR 86.7% | Python, Gymnasium |
-| [**comarai-algo-promax**](https://github.com/hungpixi/comarai-algo-promax) | SMC + Trend MAs + Proxy ML Triggers — Pine Script + Python backtesting pipeline | Pine Script, Python |
-| [**mql5-multisignal-dca-ccbsn**](https://github.com/hungpixi/mql5-multisignal-dca-ccbsn) | 9 Signal Modes × DCA × Anti-Detect — MT5 EA with Python ML Optimizer | MQL5, Python |
+| [**xauusd-smc-signal-engine**](https://github.com/hungpixi/xauusd-smc-signal-engine) | XGBoost-based data parser using Smart Money Concepts indicators for historical chart analysis. | Python, XGBoost |
+| [**btc-smc-rl-bot**](https://github.com/hungpixi/btc-smc-rl-bot) | Experimental reinforcement learning (PPO) model using Gymnasium to evaluate BTC historical data. | Python, Gymnasium |
+| [**xauusd-ichimoku-rl-bot**](https://github.com/hungpixi/xauusd-ichimoku-rl-bot) | Reinforcement learning (PPO) pilot analyzing gold price trends with multi-timeframe Ichimoku elements. | Python, Gymnasium |
+| [**comarai-algo-promax**](https://github.com/hungpixi/comarai-algo-promax) | SMC + Trend MAs + ML-triggered signals backtesting pipeline. | Pine Script, Python |
+| [**mql5-multisignal-dca-ccbsn**](https://github.com/hungpixi/mql5-multisignal-dca-ccbsn) | 9 Signal Modes × DCA — Custom MT5 EA with programmatic optimization scripts. | MQL5, Python |
 | [**hcc-reader**](https://github.com/hungpixi/hcc-reader) | Reverse-engineered MT5 .hcc/.hc binary format parser | Python |
 
 <details>
@@ -117,20 +117,21 @@ Backtested, production-grade systems for Forex (XAUUSD), Crypto, and Prop Firm c
 
 ---
 
-## ⚡ VibeCoding Orchestration & Systems Architecture
+## ⚡ Modern AI-Assisted Workflows & Tooling
 
-I do not write code line-by-line; I orchestrate swarms of Local and Cloud reasoning models to deploy production-grade software at extreme velocity. My daily workflow burns through **tens of millions of tokens**, managed through a custom proxy architecture.
+I configure and optimize advanced agentic workflows and tool-chains to boost development efficiency and automate complex, repetitive tasks.
 
-* **Routing & Resilience:** Utilizing **9Router** load-balancing across multi-platform LLM endpoints (Claude Code, Antigravity Ultra, Codex Plus) to bypass aggressive rate limits and maintain 24/7 uptime.
-* **Token Operations:** Running **RTK (Rust Token Killer)** as a CLI proxy layer to aggressively strip payload noise, securing 60-90% token savings across continuous loops.
-* **State & Memory Management:** Employing **Superpower** plugins to hot-swap high-context structural memory across concurrent ChatGPT instances during massive monolithic refactoring.
+* **API Optimization & Routing:** Exploring multi-model routing solutions to ensure high availability and load-balancing across various LLM API endpoints.
+* **Token Optimization & Cost Control:** Developing custom lightweight filters (e.g., RTK - Rust Token Killer) to strip redundant payload data, significantly reducing prompt context sizes and API costs.
+* **Memory & State Preservation:** Working with high-context memory swapping techniques to streamline coding and code-refactoring pipelines.
 
-### 🧠 Harness Chain Thinking & MCP Integration
-My orchestration bypasses basic "single-shot" prompting. By leveraging **Harness Chain Thinking**, I build looping, sequential pipelines where agents act as Devil's Advocates, validating and recursively auditing each other's outputs before compiling execution code. 
+### 🧠 Structured Agent Workflows & Model Context Protocol (MCP)
 
-Beyond code, I deploy custom **Model Context Protocol (MCP)** tool-chains. Similar to standard APIs, these MCPs fetch raw data, format executive layouts, and natively generate polished **PowerPoint Presentations** and **Word Briefs**—subsequently piping insights directly into **Power BI** for automated C-level dashboarding.
+Instead of relying on single-shot prompts, I build structured multi-step validation processes that audit outputs before execution.
 
-Currently actively researching **Hermes Agent** integrations to establish a fully autonomous headless agent capable of crawling repos, patching bugs, and resolving issues asynchronously without human observation.
+* **Custom MCP Servers:** Building Model Context Protocol (MCP) servers to bridge generative AI systems with custom databases, local directories, and API layers.
+* **Dynamic Document Automation:** Integrating automated data parsing pipelines to generate clean reports, structured documentation, and dynamic dashboard feeds.
+* **Open-Source Agent Systems:** Researching autonomous, self-healing developer agent architectures to understand how to build resilient software maintenance tools.
 
 ---
 
