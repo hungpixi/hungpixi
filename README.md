@@ -1,153 +1,150 @@
-<div align="center">
+﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Phạm%20Phú%20Nguyễn%20Hưng&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Product-Minded%20Developer%20·%20AI%20Automation%20Builder%20·%20UIT%20Student&descAlignY=58&descSize=18" width="100%" />
+# Phạm Phú Nguyên Hùng
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hungpixi)
-[![Comarai](https://img.shields.io/badge/Comarai.com-6C63FF?style=for-the-badge&logo=globe&logoColor=white)](https://comarai.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hungphamphunguyen@gmail.com)
-[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/hungpixi/)
+> *"Voyageur entre le code et les rêves"*  
+> 🇫🇷 **DELF B2 Certified** · 🇻🇳 **Ho Chi Minh City, Vietnam**
+
+### **Product-Minded Systems Builder & Pragmatic Software Engineer**
+*Bridging Commercial Strategy, Resilient System Architecture, and Practical AI Tooling.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-26730023--PhamPhuNguyenHung-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/26730023-PhamPhuNguyenHung)
+[![Portfolio](https://img.shields.io/badge/Portfolio-phamphunguyenhung.com-2563EB?style=flat-square&logo=globe&logoColor=white)](https://phamphunguyenhung.com)
+[![Email](https://img.shields.io/badge/Email-hungphamphunguyen%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hungphamphunguyen@gmail.com)
+[![PyPI](https://img.shields.io/badge/PyPI-hcc--reader-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/hcc-reader/)
+[![Education](https://img.shields.io/badge/UIT--VNUHCM-B.Sc.%20in%20IT-005BAA?style=flat-square&logo=university&logoColor=white)](https://www.uit.edu.vn)
+[![DELF B2](https://img.shields.io/badge/Français-DELF%20B2-002395?style=flat-square&logo=france&logoColor=white)](https://www.france-education-international.fr)
 
 </div>
 
 ---
 
-## ⚡ The Self-Learning Journey & Product Vision
+## 🧭 About Me & Engineering Philosophy
 
-I am a self-taught, product-minded developer transitioning from a strong business background (**BTEC Business, 2024**) to Software Engineering (**B.Sc. in IT at UIT VNUHCM, 2026–2028**). 
+I am a **Product-Minded Systems Builder and Pragmatic Software Engineer** with a distinctive dual-engine foundation: a formal background in **Business Strategy & Market Research** paired with **rigorous Computer Science training at the University of Information Technology (UIT – VNU-HCM)**.
 
-Instead of just writing code, I focus on **solving real user pain points** and creating leverage through **automated systems**. My background in business analysis allows me to bridge the gap between complex codebases and commercial/user value—ensuring every feature built serves a direct product objective.
+Rather than writing code in isolation, I focus on solving **high-friction operational bottlenecks**, delivering **concrete commercial and civic value**, and creating leverage through **pragmatic systems automation**. My cross-functional journey enables me to translate complex stakeholder requirements into clear domain models, resilient software architectures, and intuitive digital products.
 
 ```text
-📍 Ho Chi Minh City, Vietnam
-🎓 UIT – VNUHCM (B.Sc. IT, Distance Learning - Strategic choice to balance academic growth with active development)
-💼 Focus: Product-Minded Software Engineering · AI Integrations & Developer Tooling · Quantitative Trading Systems
-🏆 Objective: Building high-utility automated products that streamline complex industry workflows
+🏛️ Academic Path:   University of Information Technology – VNU-HCM (UIT) | B.Sc. in Information Technology
+🎖️ Business Foundation: Former Marketing Team Lead & BTEC FPT Valedictorian Track (HND Merit/Distinction, 100/100 Thesis)
+🌐 Languages:           Vietnamese (Native) · English (Professional Working) · French (DELF B2 Certified)
+⚙️ Core Focus:          Pragmatic Systems · Agentic Workflows (MCP) · Quantitative Pipelines · Developer Tooling
+💡 Guiding Creed:       "Voyageur entre le code et les rêves" — Building with engineering rigor and visionary purpose.
 ```
 
 ---
 
-## 🚀 Key Product Showcases
+## 🏆 Featured Flagships & Core Pillars
 
-Here are featured projects that highlight my product mindset, technical versatility, and ability to build complete end-to-end solutions:
-
-### 🦜 [VietFi Advisor](https://github.com/hungpixi/vietfi-advisor) — AI Financial Assistant for Gen Z (WDA 2026)
-* **The User Pain Point:** Personal finance apps in Vietnam lack local market context (gold rates, local banking interest, VN-Index metrics) and fail to address the credit card debt/margin trap that affects younger users.
-* **The Product Solution:** A gamified "Financial Command Center" featuring a centralized debt management hub (DTI metrics, waterfall payoff methods), a Stock Backtest Engine settling T+2.5 logic, and a voice-enabled AI mascot ("Vẹt Vàng") powered by Gemini & edge-tts.
-* **Key Tech:** Next.js, React 19, Tailwind CSS v4, Better Auth (SQLite), Vercel AI SDK, Supabase PostgreSQL.
-
-### 📐 [WiseBIM / Revit-MCP](https://github.com/hungpixi/revit-mcp) — Model Context Protocol for BIM Automation
-* **The Industry Pain Point:** CAD and BIM engineers spend hundreds of hours manually converting 2D architectural drawings into 3D Autodesk Revit families.
-* **The Product Solution:** An AI-agent bridge utilizing the Model Context Protocol (MCP) to connect LLMs directly with Autodesk Revit's local C# APIs and Dynamo scripts, automating drawing classification, layer queries, and element generation.
-* **Key Tech:** C# (Autodesk Revit API), TypeScript, Node.js, Model Context Protocol, Dynamo.
-
-### ⚙️ [ex5-backtest](https://github.com/hungpixi/ex5-backtest) — Headless Algorithmic Trading Pipeline
-* **The Trader Pain Point:** Quantitative traders lose valuable time manually compiling, backtesting, and ranking hundreds of different Expert Advisors (EAs) on MetaTrader 5.
-* **The Product Solution:** A headless CLI automated pipeline that programmatically compiles, backtests, and ranks up to 70 algorithmic strategies simultaneously, generating data-driven strategy performance catalogs.
-* **Key Tech:** PowerShell, MQL5, MetaTrader 5 CLI, Python.
+### 1. 🌍 [unicef-dustguard](https://github.com/26730023-PhamPhuNguyenHung/unicef-dustguard) — Civic Environmental Intelligence Platform
+* **Honors:** **Top 6 National Finalist — UNICEF Youth Innovation Challenge 2026**
+* **The Mission:** Mitigating urban air quality hazards for vulnerable children and school communities through real-time hyperlocal monitoring and civic action alerts.
+* **Architecture & Engineering:** 
+  * Low-latency IoT telemetry ingestion pipeline built on **Cloudflare Workers & Edge D1 Database**.
+  * Dynamic geospatial hazard visualization using **real-time GIS mapping layers & MapLibre**.
+  * Automated SMS and push notification queues dispatching actionable health advisories.
+* **Tech Stack:** `TypeScript` `Cloudflare Workers` `D1 Database (Edge SQLite)` `GIS / MapLibre` `IoT Sensor Ingestion`
 
 ---
 
-## 🤖 AI Integrations & Automated Workflows
-
-Building automated tools to streamline information gathering, lead qualification, and developer operations:
-
-| Project | Purpose & Product Thinking | Stack |
-|---|---|---|
-| [**social-lead-gen**](https://github.com/hungpixi/social-lead-gen) | Replaces manual prospecting by automatically scraping social leads, classifying intent via DeepSeek, and queueing targeted outreach. | Python, Playwright, DeepSeek |
-| [**telegram-channel-analyzer**](https://github.com/hungpixi/telegram-channel-analyzer) | Automates sentiment and trend tracking in community groups, identifying key terms and tracking engagement spikes. | Python, NLP, Scrapers |
-| [**business-deep-research**](https://github.com/hungpixi/business-deep-research) | Custom workflow for multi-stage topic research using LLM chains with real-time grounding to produce comprehensive business briefs. | Python, Gemini, Grounding |
-
----
-
-## 📈 Quantitative Trading & Analytical Engines
-
-Experimental tools and frameworks developed to explore market inefficiencies and automate chart analysis:
-
-| Project | Technical Overview | Stack |
-|---|---|---|
-| [**xauusd-smc-signal-engine**](https://github.com/hungpixi/xauusd-smc-signal-engine) | Analyzes gold price action using XGBoost classifiers and automated Smart Money Concepts (SMC) indicator calculations. | Python, XGBoost |
-| [**btc-smc-rl-bot**](https://github.com/hungpixi/btc-smc-rl-bot) | Experimental reinforcement learning (PPO) model using Gymnasium to evaluate optimal entry points based on market structure. | Python, Gymnasium |
-| [**xauusd-ichimoku-rl-bot**](https://github.com/hungpixi/xauusd-ichimoku-rl-bot) | Reinforcement learning (PPO) agent integrating multi-timeframe Ichimoku elements for pattern analysis. | Python, Gymnasium |
-| [**comarai-algo-promax**](https://github.com/hungpixi/comarai-algo-promax) | Backtesting pipeline combining SMC patterns, Moving Averages, and machine learning triggers. | Pine Script, Python |
-| [**mql5-multisignal-dca-ccbsn**](https://github.com/hungpixi/mql5-multisignal-dca-ccbsn) | MetaTrader 5 Expert Advisor utilizing multi-signal modes, DCA grid logic, and automated parameter optimizers. | MQL5, Python |
-| [**hcc-reader**](https://github.com/hungpixi/hcc-reader) | A utility designed to parse and extract historical bar data directly from MT5's proprietary binary formats (.hcc/.hc). | Python |
-
-<details>
-<summary>📊 Additional Trading & Indicator Libraries (click to expand)</summary>
-
-- [**pinescript-ict**](https://github.com/hungpixi/pinescript-ict) — ICT SSL Premium & Discount TradingView indicator (Pine Script v6)
-- [**indicator-tradingview**](https://github.com/hungpixi/indicator-tradingview) — Custom indicators collection
-- [**moondev-agent**](https://github.com/hungpixi/moondev-agent) — Trading agent orchestrations: Ichimoku + MQL5 backtest pipelines
-- [**mql5-algo-trading-portfolio**](https://github.com/hungpixi/mql5-algo-trading-portfolio) — MT5 Expert Advisor portfolio
-- [**telegram-copy-signal**](https://github.com/hungpixi/telegram-copy-signal) — Automated trade signal copier dashboard
-
-</details>
+### 2. 🦜 [vietfi-advisor](https://github.com/26730023-PhamPhuNguyenHung/vietfi-advisor) — AI Financial Command Center
+* **Honors:** **WebDev Arena (WDA) 2026 Showcase Project**
+* **The Mission:** Demystifying wealth-building, credit card traps, and margin debt for Vietnamese young adults with tailored local market context.
+* **Architecture & Engineering:**
+  * Domestic financial market engine tracking real-time SJC physical gold rates, VN-Index metrics, and interbank deposit yields.
+  * Centralized Debt Reduction Hub implementing automated **Debt-to-Income (DTI)** analysis and waterfall payoff amortization strategies.
+  * Algorithmic **T+2.5 settlement stock backtesting engine** designed specifically for the Vietnamese securities regulatory framework.
+  * Voice-driven multimodal AI companion (*"Vẹt Vàng"*) powered by streaming LLM agents and edge TTS.
+* **Tech Stack:** `Next.js` `React 19` `Tailwind CSS` `Vercel AI SDK` `SQLite / Supabase` `Gemini`
 
 ---
 
-## 🛠️ Core Technology Stack
-
-<div align="center">
-
-**Languages & Frameworks**<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-
-**AI & Automation**<br>
-![LLM Pipelines](https://img.shields.io/badge/Vercel%20AI%20SDK-4285F4?style=flat-square&logo=google&logoColor=white)
-![Model Context Protocol](https://img.shields.io/badge/MCP-0055FF?style=flat-square&logo=gitbook&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-
-**Data Science & Quantitative**<br>
-![MQL5](https://img.shields.io/badge/MQL5-2962FF?style=flat-square&logo=metatrader&logoColor=white)
-![MetaTrader 5](https://img.shields.io/badge/MT5-00897B?style=flat-square&logo=metatrader&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-1D9D58?style=flat-square&logo=xgboost&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-</div>
+### 3. 📦 [hcc-reader](https://github.com/26730023-PhamPhuNguyenHung/hcc-reader) — High-Performance Binary Tick/Bar Parser
+* **Publication:** **Official PyPI Package Author** ([`pypi.org/project/hcc-reader`](https://pypi.org/project/hcc-reader/))
+* **The Problem:** MetaTrader 5 stores historical tick and minute bar data in proprietary compressed binary `.hcc`/`.hc` containers, preventing quantitative researchers from running rapid offline analysis in Python.
+* **Architecture & Engineering:**
+  * Reverse-engineered binary format with zero-dependency C-struct byte slicing for maximum extraction throughput.
+  * Direct extraction into columnar NumPy arrays and Pandas DataFrames with sub-second parsing benchmarks.
+  * Distributed as an open-source package on PyPI to support algorithmic traders and quantitative researchers worldwide.
+* **Tech Stack:** `Python` `Binary Decoding` `NumPy` `Pandas` `PyPI Distribution`
 
 ---
 
-## ⚡ Agentic Workflows & System Optimization
-
-I actively configure advanced AI agentic systems and developer tools to streamline coding efficiency, token budgeting, and system integration:
-
-* **Token Optimization & Cost Control:** Developing custom lightweight filters (e.g., RTK - Rust Token Killer) to strip redundant payload data, significantly reducing prompt context sizes and API costs.
-* **Context Preservation:** Working with high-context memory swapping techniques to streamline complex refactoring pipelines across monolithic files.
-* **Open-Source Agent Research:** Experimenting with autonomous, self-healing developer agent architectures to understand how to build resilient software maintenance tools.
-
----
-
-## 🎓 Education & Background
-
-* **University of Information Technology – VNUHCM** (2026–2028)
-  * *B.Sc. in Information Technology (Distance Learning)*
-* **BTEC HND in Business** (Graduated 2024)
-  * *Foundation in Business Analysis and Strategic Thinking*
+### 4. 📐 [revit-mcp](https://github.com/26730023-PhamPhuNguyenHung/revit-mcp) — Model Context Protocol for BIM Automation
+* **Domain:** **Autodesk Revit BIM & Generative AEC Systems**
+* **The Problem:** Architectural and MEP engineering teams spend hundreds of manual hours translating 2D CAD drafting sheets into parametric 3D Autodesk Revit family elements.
+* **Architecture & Engineering:**
+  * Enterprise Model Context Protocol (MCP) server establishing a bi-directional IPC bridge between frontier LLMs (Claude / GPT) and local Autodesk Revit runtime.
+  * C# Revit .NET API controller executing transactional family instantiation, spatial clash checks, and automated parameter binding.
+  * Automated layer-to-BIM mapping eliminating repetitive drafting tasks by over 70%.
+* **Tech Stack:** `C# (.NET / Revit API)` `TypeScript` `Model Context Protocol (MCP)` `Dynamo` `Local IPC`
 
 ---
 
-## 🌏 Let's Connect
+### 5. ⚙️ [ex5-backtest](https://github.com/26730023-PhamPhuNguyenHung/ex5-backtest) — Headless Algorithmic Trading Pipeline
+* **Domain:** **Quantitative Finance & Automated Strategy Validation**
+* **The Problem:** Manual compilation, backtesting, and parameter optimization of multi-asset Expert Advisors (EAs) on MetaTrader 5 GUI is labor-intensive, error-prone, and unscalable.
+* **Architecture & Engineering:**
+  * Headless CLI pipeline orchestrating automated batch compilation and historical backtesting for **70+ algorithmic strategies simultaneously**.
+  * Multi-dimensional parameter optimization computing risk-adjusted metrics (Sharpe, Sortino, Max Drawdown, Recovery Factor) and compiling automated PDF/HTML performance catalogs.
+  * Resilient error-recovery scripts and local tick-data cache management.
+* **Tech Stack:** `PowerShell` `MQL5` `MetaTrader 5 CLI` `Python` `Quantitative Analytics`
 
-I am open to collaborations in **Software Engineering, AI Integrations, and Quantitative Automation**.
+---
 
-<div align="center">
+### 6. 🎓 [UIT-Assistant](https://github.com/26730023-PhamPhuNguyenHung/UIT-Assistant) — Intelligent Campus Life Utility
+* **Domain:** **Student Workflow Automation & Academic Operations**
+* **The Mission:** Streamlining university life for UIT students through unified timetable synchronization, credit progression analytics, and automated administrative query resolution.
+* **Architecture & Engineering:**
+  * High-speed academic portal timetable parser with automated Google Calendar / iCal synchronization.
+  * Credit audit dashboard tracking prerequisites, GPA trajectories, and graduation readiness milestones.
+  * Instant campus bulletin parsing delivering curated notifications on scholarships, academic competitions, and deadlines.
+* **Tech Stack:** `TypeScript` `Next.js` `FastAPI` `Student Portal Scraper` `PWA`
 
-| 📞 Contact | |
+---
+
+## 🛠️ Technical Capabilities & Pragmatic Stack
+
+| Domain | Core Technologies & Tooling |
 |---|---|
-| **Email** | [hungphamphunguyen@gmail.com](mailto:hungphamphunguyen@gmail.com) |
-| **GitHub** | [github.com/hungpixi](https://github.com/hungpixi) |
-| **Website** | [phamphunguyenhung.com](https://phamphunguyenhung.com) |
+| **Systems & Architecture** | TypeScript, Python, C# (.NET), Go, PowerShell, Edge Runtimes (Cloudflare Workers, D1, KV) |
+| **Frontend & Product UI** | Next.js (App Router), React 19, Tailwind CSS, Radix UI, TanStack Query, PWA *(Crisp Light Theme, High Contrast, No Glassmorphism)* |
+| **AI Agents & Developer Tools** | Model Context Protocol (MCP), Vercel AI SDK, LangChain/LangGraph, Function Calling, Prompt Engineering, DevTools Workspaces |
+| **Data & Quantitative Engineering** | NumPy, Pandas, XGBoost, MQL5, MetaTrader 5 Headless CLI, Gymnasium, Pine Script v6 |
+| **Databases & Storage** | Cloudflare D1 (Edge SQLite), PostgreSQL (Supabase), Redis, SQLite, Vector Databases |
+| **DevOps & Delivery** | Docker, Dokploy, GitHub Actions, Wrangler CLI, Linux/Windows Automation |
 
-</div>
+---
+
+## 🎓 Academic Foundation & Leadership Track Record
+
+* **University of Information Technology — VNU-HCM (UIT)** *(2026 – Present)*
+  * *Bachelor of Science in Information Technology (B.Sc. in IT)*
+  * Focus: Software engineering, distributed edge architectures, and real-world system integrations.
+* **BTEC FPT International College** *(Graduated 2024)*
+  * *Higher National Diploma (HND) in Business — Graduated with Merit/Distinction*
+  * **100/100 Graduation Thesis Defense**: Market entry strategy, data-driven positioning, and financial feasibility modeling.
+  * **Former Marketing Team Lead**: Directed student marketing initiatives, campus event organization, brand campaigns, and data tracking pipelines.
+* **French Language Proficiency**
+  * **DELF B2 Diploma** (*Diplôme d'Études en Langue Française*) — Confident communication, analytical writing, and international collaboration in French.
+
+---
+
+## 🤝 Connect & Collaborate
+
+I am always open to discussions regarding **high-impact digital products**, **AI agent architectures**, **quantitative systems**, and **pragmatic software engineering**.
+
+* 🌐 **Portfolio & Journal:** [phamphunguyenhung.com](https://phamphunguyenhung.com)
+* 🐙 **GitHub:** [@26730023-PhamPhuNguyenHung](https://github.com/26730023-PhamPhuNguyenHung)
+* 📦 **PyPI:** [pypi.org/user/hungpixi](https://pypi.org/user/hungpixi/)
+* 📧 **Direct Inquiries:** [hungphamphunguyen@gmail.com](mailto:hungphamphunguyen@gmail.com)
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
 
-*Built with passion, curiosity, and code.*
+*"Voyageur entre le code et les rêves."*  
+**Built with purpose, precision, and pragmatic engineering.**
+
 </div>
